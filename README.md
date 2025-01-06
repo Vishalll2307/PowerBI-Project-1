@@ -8,3 +8,4 @@ In this tool, you will find a variety of views to help you evaluate current list
 
 # Snapshot of Dashboard
 
+![Screenshot 2025-01-06 033958](https://github.com/user-attachments/assets/21d710f1-b2cc-46b5-aca7-71a938583de3)
