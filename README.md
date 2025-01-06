@@ -1,4 +1,4 @@
-# AUSTINTEL Real Estate Insight Tool 
+# AUSTIN Real Estate Insight Tool 
 
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiODRhNDU1NjktYmEyNC00MDU4LWExMGQtMmU0MTJkM2VjODQxIiwidCI6Ijg4ZTU0OGJiLWFjZTItNGE3YS05MDBjLWI1ZjMzMTMzNmE5NCJ9
 
